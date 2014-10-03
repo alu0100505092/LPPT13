@@ -1,1 +1,7 @@
 Trabajo en equipo con git
+Compilacion es la traduccion de un programa escrito en lenguaje de alto nivel a su equivalente en codigo maquina
+Interpretacion esun programa capaz de analizar y ejecutar otros programas escritos en lenguaje de alto nivel
+
+
+Que estam escritos en lenguajes diferentes y el .sh posee tres lineas de codigo a diferencia del .rb que solo tiene una
+La primera linea la necesita para saber que esta en codigo bash
